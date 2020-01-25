@@ -1,25 +1,3 @@
-# README
+# 体重管理アプリ
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# weight_management_app
+<img width="1440" alt="スクリーンショット 2020-01-25 21 22 44" src="https://user-images.githubusercontent.com/52159934/73121143-56be4b00-3fba-11ea-9169-e7faafb85d52.png">
