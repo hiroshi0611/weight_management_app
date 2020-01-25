@@ -1,0 +1,25 @@
+/* ...
+*= require flatpickr
+*= require flatpickr/themes/material_orange
+*/
+
+@import "bootstrap";
+
+// 全体
+.graph-container {
+  @extend .container-fluid;
+  max-width: 768px;
+  padding: 1rem;
+}
+
+div.alert-notice {
+  @extend .alert-info;
+}
+
+div.alert-alert {
+  @extend .alert-danger;
+}
+button.close {
+  overflow : hidden;
+  outline : none;
+}
