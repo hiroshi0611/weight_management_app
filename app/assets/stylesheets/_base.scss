@@ -37,7 +37,7 @@ $bp-smallest: 31.25em; // 500px
 
 html {
     box-sizing: border-box;
-    font-size: 62.5%; // 1rem = 10px, 10px/16px = 62.5%
+    font-size: 80%; // 1rem = 10px, 10px/16px = 62.5%
 
     @media only screen and (max-width: $bp-large) {
         font-size: 50%;
@@ -45,13 +45,19 @@ html {
 }
 
 body {
-    font-family: 'Open Sans', sans-serif;
-    font-weight: 400;
+    font-family: 'Kosugi Maru', sans-serif;
+    font-weight: 300;
     line-height: 1.6;
     color: var(--color-grey-dark-2);
-    background-image: linear-gradient(to right bottom, var(--color-primary-light), var(--color-primary-dark));
+    // background-image: linear-gradient(to right bottom, var(--color-primary-light), var(--color-primary-dark));
     background-size: cover;
     background-repeat: no-repeat;
 
     min-height: 100vh;
 }
+
+.nav-bg{
+    background-color: #aaa;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Kosugi+Maru&display=swap');

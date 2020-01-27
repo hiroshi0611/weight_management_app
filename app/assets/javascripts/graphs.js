@@ -189,5 +189,11 @@ document.addEventListener('turbolinks:load', () => {
     //     disable: disable_dates
     // }))
     console.log(gon.user_name)
+
+
+
+
 }
 })
+
+
